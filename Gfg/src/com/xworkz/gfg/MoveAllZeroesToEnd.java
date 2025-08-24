@@ -14,7 +14,6 @@ public class MoveAllZeroesToEnd {
             }
         }
     }
-
     public static void main(String[] args) {
         int[] arr={2,0,5,0,6,0,6};
         toEnd(arr);
